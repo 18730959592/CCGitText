@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    
+    NSLog(@"光头闯");
     self.view.backgroundColor = [UIColor redColor];
     
 }
